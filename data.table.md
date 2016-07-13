@@ -2,7 +2,6 @@ hello
 hello
 hello
 你在这下面加一行：
-嘿嘿
 hello
 hello
 hello
