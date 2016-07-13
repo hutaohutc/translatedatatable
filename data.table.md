@@ -1,4 +1,4 @@
-hello
+﻿hello
 hello
 hello
 你在这下面加一行：
@@ -6,7 +6,7 @@ hello
 hello
 hello
 我在这下面加一行：
-hello
+hellohello
 我加了：
 hello
 hello
